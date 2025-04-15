@@ -1,0 +1,1 @@
+# Turkish-Emotion-and-Sentiment-Lexicon-TES-Lex-
