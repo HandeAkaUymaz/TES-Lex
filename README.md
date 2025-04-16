@@ -1,3 +1,52 @@
+
+#📘 Turkish Emotion and Sentiment Lexicon (TES-Lex) 
+#📘 Türkçe Duygu ve Duygu Yönelimi Sözlüğü (TES-Lex)
+
+Bu veriseti, çalışmamızda tanıtılan Türkçe Duygu ve Duygusal Duygu Yönelimi (TES-Lex)'i içermektedir:
+
+"Exploring the Effectiveness of LLM-Generated Context on Emotion Lexicon Word Vectorization: A Comparative Study on Turkish and English"
+Senem Kumova Metin, Hande Aka Uymaz
+
+## 🔍 Genel Bakış
+TES-Lex, Türkçe dili için manuel olarak etiketlenmiş bir duygu sözlüğüdür ve toplamda 20,121 kelime içermektedir. Bu sözlük, doğal dil işleme (NLP) çalışmalarında görece az kaynaklı bir dil olan Türkçe için duygu görevlerini desteklemek amacıyla oluşturulmuştur.
+
+Sözlükteki her kelime için aşağıdaki bilgiler yer almaktadır:
+
+Plutchik’in 8 temel duygusuna (Öfke, Neşe, Üzüntü, Korku, İğrenme, Şaşkınlık, Beklenti, Güven) dayalı duygu etiketleri
+
+Duygu yoğunluk puanları (1-5 arası ölçek)
+
+Duygusal polarite (Pozitif / Negatif / Nötr)
+
+Duygusal polarite yoğunluğu (Yok, Hafif, Orta, Yüksek)
+
+Etiketleme süreci, üç ana dili Türkçe olan etiketleyici tarafından gerçekleştirilmiş ve çoğunluk oylaması yöntemiyle sonuçlandırılmıştır.
+
+## 📜 Atıf
+TES-Lex'i çalışmalarınızda kullanırsanız, lütfen aşağıdaki şekilde atıfta bulunun:
+
+```
+@article{tes-lex,
+  title={Exploring the Effectiveness of LLM-Generated Context on Emotion Lexicon Word Vectorization: A Comparative Study on Turkish and English},
+  author={Kumova Metin, Senem and Aka Uymaz, Hande},
+  journal={},
+  year={},
+  note={}
+}
+```
+
+## Lisans
+Bu veri kümesi yalnızca akademik ve araştırma amaçlı kullanım için yayınlanmıştır.
+
+## 📬 İletişim
+Sorularınız için lütfen iletişime geçiniz:
+
+Hande Aka Uymaz: hande.aka@ieu.edu.tr
+
+Please read below for English explanation.
+
+
+
 # 📘 Turkish Emotion and Sentiment Lexicon (TES-Lex)
 
 This repository contains the Turkish Emotion and Sentiment Lexicon (TES-Lex) introduced in our study:
