@@ -1,6 +1,6 @@
 
 # 📘 Turkish Emotion and Sentiment Lexicon (TES-Lex) 
-# (Türkçe Duygu ve Duygu Yönelimi Sözlüğü)
+# Türkçe Duygu ve Duygu Yönelimi Sözlüğü
 
 Bu veriseti, çalışmamızda tanıtılan Türkçe Duygu ve Duygusal Duygu Yönelimi (TES-Lex)'i içermektedir:
 
