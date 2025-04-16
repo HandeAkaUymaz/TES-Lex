@@ -9,7 +9,7 @@ TES-Lex is a manually annotated lexicon for the Turkish language, containing 20,
 
 Each word in the lexicon includes:
 
-Up to two emotion labels based on Plutchik’s 8 emotions: Anger, Joy, Sadness, Fear, Disgust, Surprise, Anticipation, Trust.
+Emotion labels based on Plutchik’s 8 emotions: Anger, Joy, Sadness, Fear, Disgust, Surprise, Anticipation, Trust.
 
 Emotion intensity scores (scale 1-5)
 
