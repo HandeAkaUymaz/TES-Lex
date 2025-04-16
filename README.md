@@ -24,6 +24,7 @@ Please refer to the paper for more details on the annotation methodology and exp
 ## 📜 Citation
 If you use TES-Lex in your work, please cite:
 
+```
 @article{kumovametin2025teslex,
   title={Exploring the Effectiveness of LLM-Generated Context on Emotion Lexicon Word Vectorization: A Comparative Study on Turkish and English},
   author={Kumova Metin, Senem and Aka Uymaz, Hande},
