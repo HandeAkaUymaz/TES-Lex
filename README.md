@@ -41,9 +41,9 @@ Bu veri kümesi yalnızca akademik ve araştırma amaçlı kullanım için yayı
 ## 📬 İletişim
 Sorularınız için lütfen iletişime geçiniz:
 
-Hande Aka Uymaz: hande.aka@ieu.edu.tr
+**Hande Aka Uymaz: hande.aka@ieu.edu.tr**
 
-Please read below for English explanation.
+**Please read below for the English explanation.**
 
 
 
