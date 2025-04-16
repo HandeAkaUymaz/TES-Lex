@@ -1,10 +1,10 @@
-📘 # **Turkish Emotion and Sentiment Lexicon (TES-Lex)**
+# 📘 Turkish Emotion and Sentiment Lexicon (TES-Lex)
 
 This repository contains the Turkish Emotion and Sentiment Lexicon (TES-Lex) introduced in our study:
 
 "Exploring the Effectiveness of LLM-Generated Context on Emotion Lexicon Word Vectorization: A Comparative Study on Turkish and English" Senem Kumova Metin, Hande Aka Uymaz
 
-🔍 ## **Overview**
+## 🔍 Overview
 TES-Lex is a manually annotated lexicon for the Turkish language, containing 20,121 emotion and sentiment words. It was created to support emotion and sentiment detection tasks in Turkish, a relatively low-resourced language in natural language processing (NLP) studies.
 
 Each word in the lexicon includes:
@@ -21,7 +21,7 @@ The annotations were conducted by three native Turkish speakers and finalized us
 
 Please refer to the paper for more details on the annotation methodology and experimental setup.
 
-## **📜 Citation**
+## 📜 Citation
 If you use TES-Lex in your work, please cite:
 
 @article{kumovametin2025teslex,
